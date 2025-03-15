@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1741977562431
+  login: 1741977564332
+money: '0'
+last-account-name: Ciroka
+logoutlocation:
+  world: 8a808d26-42e1-4f5b-bf6b-01089d54dfc4
+  world-name: world
+  x: -210.6022029883382
+  y: 80.6901166180758
+  z: -0.024599125364431474
+  yaw: 90.85897064208984
+  pitch: -8.40778923034668

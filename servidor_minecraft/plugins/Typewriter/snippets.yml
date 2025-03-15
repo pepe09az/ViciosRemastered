@@ -1,0 +1,85 @@
+chat:
+  # The amount of messages displayed in the chat history during a dialogue
+  darken-limit: 12
+  # The amount of padding between the dialogue and the chat history
+  spacing: 3
+cinematic:
+  dialogue:
+    actionbar:
+      format: '<bold><speaker></bold><reset><gray>: <white><message><padding>'
+      percentage: 0.4
+    spoken:
+      format: |-
+        <gray><st>                                                            </st>
+
+        <gray><padding>[ <bold><speaker></bold><reset><gray> ]
+
+        <message>
+
+        <gray><st>                                                            </st>
+      padding: '    '
+      minLines: 4
+      maxLineLength: 40
+      percentage: 0.5
+entity:
+  nameplate: |-
+    <other>
+    <reset><display_name>
+  name:
+    offset: 0.2
+    color: '#40000000'
+  activity:
+    look_close:
+      range: 10.0
+objective:
+  entity:
+    indicator:
+      tracked: <gold><b>❗
+      normal: <blue><b>❓
+      dialogue: <white><b>💬
+dialogue:
+  spoken:
+    format: |-
+      <gray><st>                                                            </st>
+
+      <gray><padding>[ <bold><speaker></bold><reset><gray> ]
+
+      <message>
+
+      <next_color>                     Press<white> <confirmation_key> </white>to <finish_text>
+      <gray><st>                                                            </st>
+    instruction:
+      next: continue
+      finish: finish
+      color:
+        base: <gray>
+        highlight: <red>
+      ticks:
+        highlighted: 10
+        base: 30
+    padding: '    '
+    minLines: 3
+    maxLineLength: 40
+  option:
+    format: |-
+      <gray><st>                                                            </st>
+      <white> <speaker><reset>: <text>
+
+      <options>
+      <#5d6c78>[ <grey><white> Rueda del mouse </white> para cambiar de opción <#5d6c78>]
+
+      <gray><st>                                                            </st>
+    prefix:
+      selected: <#78ff85>>>
+      up: <white> ↑
+      down: <white> ↓
+      unselected: '  '
+    selected: |2
+       <prefix> <#5d6c78>[ <white><option_text> <#5d6c78>]
+    unselected: |2
+       <prefix> <#5d6c78>[ <grey><option_text> <#5d6c78>]
+    maxLineLength: 40
+    # The delay in milliseconds between each option being shown.
+    delay: 100
+  actionbar:
+    format: '<bold><speaker></bold><reset><gray>: <white><message><padding>'

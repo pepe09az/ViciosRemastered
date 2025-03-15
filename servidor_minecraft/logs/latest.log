@@ -1,0 +1,354 @@
+[16:56:14] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[16:56:14] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[16:56:15] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:56:15] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[16:56:16] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
+[16:56:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:56:27] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[16:56:27] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[16:56:29] [ServerMain/INFO]: No existing world data, creating new world
+[16:56:32] [ServerMain/INFO]: Loaded 1337 recipes
+[16:56:32] [ServerMain/INFO]: Loaded 1448 advancements
+[16:56:33] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[16:56:33] [Server thread/INFO]: Loading properties
+[16:56:33] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 17201ms.
+[16:56:33] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[16:56:34] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:56:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:56:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:56:35] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[16:56:35] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[16:56:36] [Server thread/INFO]: Default game type: SURVIVAL
+[16:56:36] [Server thread/INFO]: Generating keypair
+[16:56:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:56:36] [Server thread/INFO]: Using epoll channel type
+[16:56:36] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:56:36] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[16:56:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:56:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:56:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:56:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:56:36] [Server thread/INFO]: Preparing level "world"
+[16:56:51] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[16:56:52] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 482.8ms
+[16:56:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:56:54] [Server thread/INFO]: Preparing spawn area: 2%
+[16:56:54] [Server thread/INFO]: Preparing spawn area: 2%
+[16:56:55] [Server thread/INFO]: Preparing spawn area: 2%
+[16:56:56] [Server thread/INFO]: Preparing spawn area: 2%
+[16:56:56] [Server thread/INFO]: Preparing spawn area: 2%
+[16:56:57] [Server thread/INFO]: Preparing spawn area: 2%
+[16:56:57] [Server thread/INFO]: Preparing spawn area: 12%
+[16:56:57] [Server thread/INFO]: Preparing spawn area: 18%
+[16:56:58] [Server thread/INFO]: Preparing spawn area: 18%
+[16:56:58] [Server thread/INFO]: Preparing spawn area: 18%
+[16:56:59] [Server thread/INFO]: Preparing spawn area: 20%
+[16:56:59] [Server thread/INFO]: Preparing spawn area: 20%
+[16:57:00] [Server thread/INFO]: Preparing spawn area: 22%
+[16:57:01] [Server thread/INFO]: Preparing spawn area: 22%
+[16:57:01] [Server thread/INFO]: Preparing spawn area: 51%
+[16:57:01] [Server thread/INFO]: Preparing spawn area: 51%
+[16:57:02] [Server thread/INFO]: Preparing spawn area: 57%
+[16:57:02] [Server thread/INFO]: Preparing spawn area: 57%
+[16:57:03] [Server thread/INFO]: Preparing spawn area: 57%
+[16:57:03] [Server thread/INFO]: Preparing spawn area: 75%
+[16:57:03] [Server thread/INFO]: Time elapsed: 9522 ms
+[16:57:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:57:03] [Server thread/INFO]: Preparing spawn area: 2%
+[16:57:04] [Server thread/INFO]: Preparing spawn area: 2%
+[16:57:05] [Server thread/INFO]: Preparing spawn area: 18%
+[16:57:05] [Server thread/INFO]: Preparing spawn area: 30%
+[16:57:05] [Server thread/INFO]: Preparing spawn area: 51%
+[16:57:06] [Server thread/INFO]: Preparing spawn area: 71%
+[16:57:06] [Server thread/INFO]: Time elapsed: 2775 ms
+[16:57:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:57:06] [Server thread/INFO]: Preparing spawn area: 2%
+[16:57:07] [Server thread/INFO]: Preparing spawn area: 18%
+[16:57:07] [Server thread/INFO]: Time elapsed: 908 ms
+[16:57:07] [Server thread/INFO]: [spark] Starting background profiler...
+[16:57:07] [Server thread/INFO]: Done preparing level "world" (31.326s)
+[16:57:08] [Server thread/INFO]: Running delayed init tasks
+[16:57:08] [Server thread/INFO]: Done (54.688s)! For help, type "help"
+[16:57:08] [Server thread/INFO]: *************************************************************************************
+[16:57:08] [Server thread/INFO]: This is the first time you're starting this server.
+[16:57:08] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[16:57:08] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[16:57:08] [Server thread/INFO]: *************************************************************************************
+[16:57:08] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/home/codespace/.python/current/bin/python3 /workspaces/ViciosRemastered/msx.py<--[HERE]
+[17:02:27] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[17:02:31] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[17:02:31] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[17:02:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:02:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:02:31] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[17:02:31] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[17:02:32] [Server thread/INFO]: Loaded 1337 recipes
+[17:02:32] [Server thread/INFO]: Loaded 1448 advancements
+[17:02:32] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:02:32] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/worldedit-bukkit-7.3.10.jar'...
+[17:02:32] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/PlaceholderAPI-2.11.6.jar'...
+[17:02:32] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/Vault.jar'...
+[17:02:32] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/worldguard-bukkit-7.0.13-beta-1-dist.jar'...
+[17:02:33] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Vault.jar' in 689ms.
+[17:02:34] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/worldguard-bukkit-7.0.13-beta-1-dist.jar' in 1321ms.
+[17:02:34] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/PlaceholderAPI-2.11.6.jar' in 1565ms.
+[17:02:36] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/worldedit-bukkit-7.3.10.jar' in 3694ms.
+[17:02:36] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.0.21/kotlin-stdlib-2.0.21.pom
+[17:02:37] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.pom
+[17:02:37] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.0.21/kotlin-stdlib-2.0.21.jar
+[17:02:37] [BasicRepositoryConnector-repo1.maven.org-0-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[17:02:37] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-reflect/2.0.21/kotlin-reflect-2.0.21.pom
+[17:02:37] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-reflect/2.0.21/kotlin-reflect-2.0.21.jar
+[17:02:37] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.pom
+[17:02:37] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.9.0/kotlinx-coroutines-bom-1.9.0.pom
+[17:02:37] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.pom
+[17:02:37] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/annotations/23.0.0/annotations-23.0.0.pom
+[17:02:37] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.0.0/kotlin-stdlib-2.0.0.pom
+[17:02:38] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.jar
+[17:02:38] [BasicRepositoryConnector-repo1.maven.org-1-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
+[17:02:38] [BasicRepositoryConnector-repo1.maven.org-1-1/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar
+[17:02:38] [BasicRepositoryConnector-repo1.maven.org-1-2/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.0.0/kotlin-stdlib-2.0.0.jar
+[17:02:38] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/corundumstudio/socketio/netty-socketio/1.7.19/netty-socketio-1.7.19.pom
+[17:02:38] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-buffer/4.1.63.Final/netty-buffer-4.1.63.Final.pom
+[17:02:38] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-parent/4.1.63.Final/netty-parent-4.1.63.Final.pom
+[17:02:38] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+[17:02:38] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-common/4.1.63.Final/netty-common-4.1.63.Final.pom
+[17:02:38] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport/4.1.63.Final/netty-transport-4.1.63.Final.pom
+[17:02:38] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-resolver/4.1.63.Final/netty-resolver-4.1.63.Final.pom
+[17:02:38] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-handler/4.1.63.Final/netty-handler-4.1.63.Final.pom
+[17:02:38] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-codec/4.1.63.Final/netty-codec-4.1.63.Final.pom
+[17:02:38] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-codec-http/4.1.63.Final/netty-codec-http-4.1.63.Final.pom
+[17:02:38] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.63.Final/netty-transport-native-epoll-4.1.63.Final.pom
+[17:02:38] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport-native-unix-common/4.1.63.Final/netty-transport-native-unix-common-4.1.63.Final.pom
+[17:02:39] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.pom
+[17:02:39] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.21/slf4j-parent-1.7.21.pom
+[17:02:39] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.12.3/jackson-core-2.12.3.pom
+[17:02:39] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-base/2.12.3/jackson-base-2.12.3.pom
+[17:02:39] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-bom/2.12.3/jackson-bom-2.12.3.pom
+[17:02:39] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-parent/2.12/jackson-parent-2.12.pom
+[17:02:39] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/oss-parent/41/oss-parent-41.pom
+[17:02:39] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.12.3/jackson-databind-2.12.3.pom
+[17:02:39] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.12.3/jackson-annotations-2.12.3.pom
+[17:02:39] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/corundumstudio/socketio/netty-socketio/1.7.19/netty-socketio-1.7.19.jar
+[17:02:39] [BasicRepositoryConnector-repo1.maven.org-2-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-buffer/4.1.63.Final/netty-buffer-4.1.63.Final.jar
+[17:02:39] [BasicRepositoryConnector-repo1.maven.org-2-1/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-common/4.1.63.Final/netty-common-4.1.63.Final.jar
+[17:02:39] [BasicRepositoryConnector-repo1.maven.org-2-2/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport/4.1.63.Final/netty-transport-4.1.63.Final.jar
+[17:02:39] [BasicRepositoryConnector-repo1.maven.org-2-3/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-resolver/4.1.63.Final/netty-resolver-4.1.63.Final.jar
+[17:02:39] [BasicRepositoryConnector-repo1.maven.org-2-4/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-handler/4.1.63.Final/netty-handler-4.1.63.Final.jar
+[17:02:39] [BasicRepositoryConnector-repo1.maven.org-2-1/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-codec-http/4.1.63.Final/netty-codec-http-4.1.63.Final.jar
+[17:02:39] [BasicRepositoryConnector-repo1.maven.org-2-3/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-codec/4.1.63.Final/netty-codec-4.1.63.Final.jar
+[17:02:39] [BasicRepositoryConnector-repo1.maven.org-2-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.63.Final/netty-transport-native-epoll-4.1.63.Final.jar
+[17:02:39] [BasicRepositoryConnector-repo1.maven.org-2-2/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport-native-unix-common/4.1.63.Final/netty-transport-native-unix-common-4.1.63.Final.jar
+[17:02:39] [BasicRepositoryConnector-repo1.maven.org-2-4/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar
+[17:02:39] [BasicRepositoryConnector-repo1.maven.org-2-1/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.12.3/jackson-core-2.12.3.jar
+[17:02:39] [BasicRepositoryConnector-repo1.maven.org-2-3/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.12.3/jackson-databind-2.12.3.jar
+[17:02:39] [BasicRepositoryConnector-repo1.maven.org-2-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.12.3/jackson-annotations-2.12.3.jar
+[17:02:39] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/github/shynixn/mccoroutine/mccoroutine-bukkit-api/2.20.0/mccoroutine-bukkit-api-2.20.0.pom
+[17:02:39] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.9.25/kotlin-stdlib-1.9.25.pom
+[17:02:39] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/github/shynixn/mccoroutine/mccoroutine-bukkit-api/2.20.0/mccoroutine-bukkit-api-2.20.0.jar
+[17:02:39] [BasicRepositoryConnector-repo1.maven.org-3-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.9.25/kotlin-stdlib-1.9.25.jar
+[17:02:39] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/github/shynixn/mccoroutine/mccoroutine-bukkit-core/2.20.0/mccoroutine-bukkit-core-2.20.0.pom
+[17:02:39] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/github/shynixn/mccoroutine/mccoroutine-bukkit-core/2.20.0/mccoroutine-bukkit-core-2.20.0.jar
+[17:02:39] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-server-core-jvm/2.3.12/ktor-server-core-jvm-2.3.12.pom
+[17:02:39] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.8.22/kotlin-stdlib-1.8.22.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.22/kotlin-stdlib-common-1.8.22.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.7.1/kotlinx-coroutines-bom-1.7.1.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.7.1/kotlinx-coroutines-core-jvm-1.7.1.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.20/kotlin-stdlib-common-1.8.20.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.36/slf4j-parent-1.7.36.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.3/config-1.4.3.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.20/kotlin-stdlib-jdk8-1.8.20.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.8.20/kotlin-stdlib-1.8.20.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.20/kotlin-stdlib-jdk7-1.8.20.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-utils-jvm/2.3.12/ktor-utils-jvm-2.3.12.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-io-jvm/2.3.12/ktor-io-jvm-2.3.12.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-http-jvm/2.3.12/ktor-http-jvm-2.3.12.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-serialization-jvm/2.3.12/ktor-serialization-jvm-2.3.12.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-websockets-jvm/2.3.12/ktor-websockets-jvm-2.3.12.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-events-jvm/2.3.12/ktor-events-jvm-2.3.12.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-reflect/1.8.22/kotlin-reflect-1.8.22.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/2.4.1/jansi-2.4.1.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.12/fusesource-pom-1.12.pom
+[17:02:40] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-server-core-jvm/2.3.12/ktor-server-core-jvm-2.3.12.jar
+[17:02:40] [BasicRepositoryConnector-repo1.maven.org-4-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar
+[17:02:40] [BasicRepositoryConnector-repo1.maven.org-4-1/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.8.22/kotlin-stdlib-1.8.22.jar
+[17:02:40] [BasicRepositoryConnector-repo1.maven.org-4-2/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar
+[17:02:40] [BasicRepositoryConnector-repo1.maven.org-4-3/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.jar
+[17:02:40] [BasicRepositoryConnector-repo1.maven.org-4-4/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
+[17:02:40] [BasicRepositoryConnector-repo1.maven.org-4-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.3/config-1.4.3.jar
+[17:02:40] [BasicRepositoryConnector-repo1.maven.org-4-2/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.7.1/kotlinx-coroutines-core-jvm-1.7.1.jar
+[17:02:40] [BasicRepositoryConnector-repo1.maven.org-4-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.22/kotlin-stdlib-common-1.8.22.jar
+[17:02:40] [BasicRepositoryConnector-repo1.maven.org-4-3/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-utils-jvm/2.3.12/ktor-utils-jvm-2.3.12.jar
+[17:02:40] [BasicRepositoryConnector-repo1.maven.org-4-4/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-io-jvm/2.3.12/ktor-io-jvm-2.3.12.jar
+[17:02:40] [BasicRepositoryConnector-repo1.maven.org-4-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-http-jvm/2.3.12/ktor-http-jvm-2.3.12.jar
+[17:02:40] [BasicRepositoryConnector-repo1.maven.org-4-3/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-serialization-jvm/2.3.12/ktor-serialization-jvm-2.3.12.jar
+[17:02:40] [BasicRepositoryConnector-repo1.maven.org-4-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-websockets-jvm/2.3.12/ktor-websockets-jvm-2.3.12.jar
+[17:02:40] [BasicRepositoryConnector-repo1.maven.org-4-3/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-events-jvm/2.3.12/ktor-events-jvm-2.3.12.jar
+[17:02:41] [BasicRepositoryConnector-repo1.maven.org-4-4/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-reflect/1.8.22/kotlin-reflect-1.8.22.jar
+[17:02:41] [BasicRepositoryConnector-repo1.maven.org-4-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/2.4.1/jansi-2.4.1.jar
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-server-netty-jvm/2.3.12/ktor-server-netty-jvm-2.3.12.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-server-host-common-jvm/2.3.12/ktor-server-host-common-jvm-2.3.12.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-http-cio-jvm/2.3.12/ktor-http-cio-jvm-2.3.12.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-network-jvm/2.3.12/ktor-network-jvm-2.3.12.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-codec-http2/4.1.111.Final/netty-codec-http2-4.1.111.Final.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-parent/4.1.111.Final/netty-parent-4.1.111.Final.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-common/4.1.111.Final/netty-common-4.1.111.Final.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-buffer/4.1.111.Final/netty-buffer-4.1.111.Final.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport/4.1.111.Final/netty-transport-4.1.111.Final.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-resolver/4.1.111.Final/netty-resolver-4.1.111.Final.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-codec/4.1.111.Final/netty-codec-4.1.111.Final.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-handler/4.1.111.Final/netty-handler-4.1.111.Final.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport-native-unix-common/4.1.111.Final/netty-transport-native-unix-common-4.1.111.Final.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-codec-http/4.1.111.Final/netty-codec-http-4.1.111.Final.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/eclipse/jetty/alpn/alpn-api/1.1.3.v20160715/alpn-api-1.1.3.v20160715.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-parent/21/jetty-parent-21.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport-native-kqueue/4.1.111.Final/netty-transport-native-kqueue-4.1.111.Final.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport-classes-kqueue/4.1.111.Final/netty-transport-classes-kqueue-4.1.111.Final.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.111.Final/netty-transport-native-epoll-4.1.111.Final.pom
+[17:02:41] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport-classes-epoll/4.1.111.Final/netty-transport-classes-epoll-4.1.111.Final.pom
+[17:02:42] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-server-netty-jvm/2.3.12/ktor-server-netty-jvm-2.3.12.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-5-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-server-host-common-jvm/2.3.12/ktor-server-host-common-jvm-2.3.12.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-5-1/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-http-cio-jvm/2.3.12/ktor-http-cio-jvm-2.3.12.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-5-2/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/ktor/ktor-network-jvm/2.3.12/ktor-network-jvm-2.3.12.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-5-3/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-codec-http2/4.1.111.Final/netty-codec-http2-4.1.111.Final.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-5-4/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-common/4.1.111.Final/netty-common-4.1.111.Final.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-5-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-buffer/4.1.111.Final/netty-buffer-4.1.111.Final.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-5-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport/4.1.111.Final/netty-transport-4.1.111.Final.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-5-1/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-resolver/4.1.111.Final/netty-resolver-4.1.111.Final.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-5-2/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-codec/4.1.111.Final/netty-codec-4.1.111.Final.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-5-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-handler/4.1.111.Final/netty-handler-4.1.111.Final.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-5-1/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-codec-http/4.1.111.Final/netty-codec-http-4.1.111.Final.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-5-3/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/eclipse/jetty/alpn/alpn-api/1.1.3.v20160715/alpn-api-1.1.3.v20160715.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-5-4/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport-native-kqueue/4.1.111.Final/netty-transport-native-kqueue-4.1.111.Final.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-5-3/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport-native-unix-common/4.1.111.Final/netty-transport-native-unix-common-4.1.111.Final.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-5-2/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport-classes-kqueue/4.1.111.Final/netty-transport-classes-kqueue-4.1.111.Final.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-5-4/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.111.Final/netty-transport-native-epoll-4.1.111.Final.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-5-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/io/netty/netty-transport-classes-epoll/4.1.111.Final/netty-transport-classes-epoll-4.1.111.Final.jar
+[17:02:42] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core/1.7.3/kotlinx-serialization-core-1.7.3.pom
+[17:02:42] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-bom/1.7.3/kotlinx-serialization-bom-1.7.3.pom
+[17:02:42] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.pom
+[17:02:42] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.0.20/kotlin-stdlib-2.0.20.pom
+[17:02:42] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core/1.7.3/kotlinx-serialization-core-1.7.3.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-6-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-6-1/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.0.20/kotlin-stdlib-2.0.20.jar
+[17:02:42] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/bstats/bstats-bukkit/3.1.0/bstats-bukkit-3.1.0.pom
+[17:02:42] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/bstats/bstats-base/3.1.0/bstats-base-3.1.0.pom
+[17:02:42] [Server thread/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/bstats/bstats-bukkit/3.1.0/bstats-bukkit-3.1.0.jar
+[17:02:42] [BasicRepositoryConnector-repo1.maven.org-7-0/INFO]: [MavenLibraryResolver] Downloading https://repo1.maven.org/maven2/org/bstats/bstats-base/3.1.0/bstats-base-3.1.0.jar
+[17:02:42] [Server thread/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[17:02:42] [Server thread/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - Typewriter (0.8.0-beta-153)
+[17:02:42] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+ - Essentials (2.21.0-dev+189-eab2201), PlaceholderAPI (2.11.6), Vault (1.7.3-b131), WorldEdit (7.3.10+7004-768a436), WorldGuard (7.0.13-beta-1+2f13ae0), packetevents (2.7.0)
+[17:02:42] [Server thread/WARN]: [PluginInitializerManager] ======== WARNING ========
+[17:02:42] [Server thread/WARN]: [PluginInitializerManager] You are reloading while having Paper plugins installed on your server.
+[17:02:42] [Server thread/WARN]: [PluginInitializerManager] Paper plugins do NOT support being reloaded. This will cause some unexpected issues.
+[17:02:42] [Server thread/WARN]: [PluginInitializerManager] =========================
+[17:02:43] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[17:02:43] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.10+7004-768a436
+[17:02:44] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1205725a]
+[17:02:44] [Server thread/INFO]: [Typewriter] Loading server plugin Typewriter v0.8.0-beta-153
+[17:02:45] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.13-beta-1+2f13ae0
+[17:02:45] [Server thread/INFO]: [packetevents] Loading server plugin packetevents v2.7.0
+[17:02:50] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+189-eab2201
+[17:02:50] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[17:02:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:02:50] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[17:02:50] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[17:02:50] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[17:02:50] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[17:02:50] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.10+7004-768a436
+[17:02:50] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[17:02:50] [Server thread/INFO]: WEPIF: Updated config file
+[17:02:50] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[17:02:50] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[17:02:51] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_3.PaperweightAdapter as the Bukkit adapter
+[17:02:54] [Server thread/INFO]: [Typewriter] Enabling Typewriter v0.8.0-beta-153
+[17:02:54] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: typewriter [0.8.0-beta-153]
+[17:02:54] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.13-beta-1+2f13ae0
+[17:02:54] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[17:02:54] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[17:02:54] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[17:02:54] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[17:02:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[17:02:54] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[17:02:54] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[17:02:54] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[17:02:54] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[17:02:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[17:02:54] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[17:02:54] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[17:02:54] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[17:02:54] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[17:02:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[17:02:54] [Server thread/INFO]: [WorldGuard] Loading region data...
+[17:02:54] [Server thread/INFO]: [packetevents] Enabling packetevents v2.7.0
+[17:02:54] [packetevents-update-check-thread/INFO]: [packetevents] Checking for updates, please wait...
+[17:02:54] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+189-eab2201
+[17:02:55] [packetevents-update-check-thread/INFO]: [packetevents] You are running the latest release of PacketEvents. Your build: (2.7.0)
+[17:02:55] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[17:02:56] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[17:02:56] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[17:02:56] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[17:02:56] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[17:02:56] [Server thread/INFO]: [Essentials] Using locale en
+[17:02:56] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[17:02:57] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[17:02:57] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[17:02:57] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[17:02:57] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[17:02:57] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[17:02:58] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[17:02:58] [Server thread/INFO]: CONSOLE: Reload complete.
+[17:02:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26681ms or 533 ticks behind
+[17:02:58] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] Checking for Updates ... 
+[17:02:58] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
+[17:02:58] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] No new version available
+[17:02:58] [Server thread/INFO]: [Typewriter] 
+---------------{ Loaded Extensions }---------------
+
+BasicExtension       (0.8.0) 📚: 153 👂:  25 🔌:   0
+EntityExtension      (0.8.0) 📚: 170 👂:   1 🔌:   0
+QuestExtension       (0.8.0) 📚:  13 👂:   3 🔌:   2
+RoadNetworkExtension (0.8.0) 📚:   4 👂:   0 🔌:   3
+WorldGuardExtension  (0.8.0) 📚:   5 👂:   2 🔌:   1
+
+--------------------------------------------------
+[17:02:59] [Server thread/INFO]: [Typewriter] Loaded 17 entries from 5 pages.
+[17:02:59] [Server thread/INFO]: [WorldGuard] Registering session handler com.typewritermc.worldguard.WorldGuardHandler
+[17:02:59] [Server thread/INFO]: [Typewriter] Loaded 1 entry listeners
+[17:02:59] [Server thread/WARN]: [Typewriter] Websocket server is enabled. This is not recommended for production servers.
+[17:02:59] [Server thread/INFO]: [ktor.application] Autoreload is disabled because the development mode is off.
+[17:02:59] [Server thread/INFO]: [ktor.application] Application started in 0.235 seconds.
+[17:02:59] [DefaultDispatcher-worker-1/INFO]: [ktor.application] Responding at http://0.0.0.0:8080
+[17:03:00] [Server thread/INFO]: [com.corundumstudio.socketio.SocketIOServer] Session store / pubsub factory used: MemoryStoreFactory (local session store only)
+[17:03:00] [nioEventLoopGroup-5-1/INFO]: [com.corundumstudio.socketio.SocketIOServer] SocketIO server started at port: 9092
+[17:03:00] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[17:03:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[17:03:00] [Server thread/INFO]: 1 placeholder hook(s) registered!
